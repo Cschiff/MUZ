@@ -6,7 +6,7 @@ Created on Apr 29, 2017
 
 import json
 import requests 
-from bs4 import BeautifulSoup
+# from bs4 import BeautifulSoup # not used
 
 username = "06a1ee12-581e-456f-90bf-a13383655a24"
 password = "D5SBTi9fk4"
