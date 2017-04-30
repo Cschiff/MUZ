@@ -3,13 +3,21 @@ Alerta de evacuación!
 Existe un peligro de inundación del 80% para Comodoro Rivadavia y alrededores.
 Diríjase cuanto antes al centro de refugio más cercano, que se encuentra en <UBICACIÓN>.
 
+Consejos:
 - Lleve consigo solo lo esencial
 - Si tiene tiempo, desconecte el suministro de gas, electricidad y agua
 - Desconecte los electrodomésticos para evitar descargas eléctricas cuando se restablezca el suministro eléctrico
 - Siga las rutas de evacuación designadas y prepárese ante la posibilidad de que haya mucho tráfico
 - No trate de atravesar en automóvil o a pie los riachuelos y las calles inundadas
 
+Suministros de emergencia necesarios:
+- Suficiente comida que no necesite refrigeración para 3 a 5 días y un abrelatas que no sea eléctrico
+- Un botiquín de primeros auxilios con un manual, medicamentos recetados y lo necesario para atender cualquier necesidad médica especial
+- Una radio que funcione con baterías, linternas que funcionen con baterías y baterías adicionales
+- Sacos de dormir o mantas adicionales
+- Paños de limpieza desechables, como toallitas húmedas para bebés, que usaría toda la familia en caso de que no hubiera instalaciones para bañarse
+- Botas de goma, zapatos gruesos y guantes impermeables
+- Repelente de mosquitos
+
 Si posee conexión a Internet y acceso a Google Maps, este link le indicará la ruta al centro de refugio:
 <LINK A GOOGLE MAPS>
-
-
