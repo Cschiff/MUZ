@@ -1,0 +1,15 @@
+Alerta de evacuación!
+
+Existe un peligro de inundación del 80% para Comodoro Rivadavia y alrededores.
+Diríjase cuanto antes al centro de refugio más cercano, que se encuentra en <UBICACIÓN>.
+
+- Lleve consigo solo lo esencial
+- Si tiene tiempo, desconecte el suministro de gas, electricidad y agua
+- Desconecte los electrodomésticos para evitar descargas eléctricas cuando se restablezca el suministro eléctrico
+- Siga las rutas de evacuación designadas y prepárese ante la posibilidad de que haya mucho tráfico
+- No trate de atravesar en automóvil o a pie los riachuelos y las calles inundadas
+
+Si posee conexión a Internet y acceso a Google Maps, este link le indicará la ruta al centro de refugio:
+<LINK A GOOGLE MAPS>
+
+
