@@ -1,6 +1,6 @@
 Alerta de evacuación!
 
-Existe un peligro de inundación del 80% para Comodoro Rivadavia y alrededores.
+Existe un peligro de inundación del 95% para Comodoro Rivadavia y alrededores.
 Diríjase cuanto antes al centro de refugio más cercano, que se encuentra en <UBICACIÓN>.
 
 Consejos:
