@@ -12,7 +12,7 @@ client = Client(ACCOUNT_SID, AUTH_TOKEN)
 #"Existe un peligro de inundación del 95% en la zona donde se encuentra. Diríjase con sus bienes mas preciados al centro de refugio lo más rápido posible."
 msj_1 = """Alerta de evacuación!
 Existe un peligro de inundación del 95% para Comodoro Rivadavia y alrededores.
-Diríjase cuanto antes al centro de refugio más cercano, que se encuentra en <UBICACIÓN>.
+Diríjase cuanto antes al centro de refugio más cercano, que se encuentra en Av. 10 de Noviembre y Polonia.
 - Lleve consigo solo lo esencial
 - Si tiene tiempo, desconecte el suministro de gas, electricidad y agua
 - Desconecte los electrodomésticos para evitar descargas eléctricas cuando se restablezca el suministro eléctrico
