@@ -14,7 +14,7 @@ Follow your brain and your heart, and present a solution of your own choosing!
 # ATI
 <video>
 
-### A Flood Early Warning System based on SMS messages
+### A Flood Early Warning System based on SMS messages and ML
 
 ![ATI logo][ATI]
 
