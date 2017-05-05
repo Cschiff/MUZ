@@ -28,7 +28,8 @@ It's actually pretty simple. The system uses data from The Weather Company and r
 
 ## The message
 The warning message provides information on shelter locations for people as well as livestock. It also gives critical advice on leaving their belongings at home and danger zones:
-'''
+
+```
 IMMINENT FLOOD ALERT - 95% probability of flood within the next 12hs in your area.
 
 Your nearest evacuation center is located in Av. San Martin 3944. Go to the center ASAP.
@@ -36,7 +37,7 @@ Your nearest evacuation center is located in Av. San Martin 3944. Go to the cent
 Send 1 for more info on how to protect your loved ones and possessions.
 
 - ATI, your flood early warning system.
-'''
+```
 
 ## Resources
 - IBM Bluemix / The Weather Company API
