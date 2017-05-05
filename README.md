@@ -1,5 +1,5 @@
 # MUZ
-"We know what we are doing, we love what we are doing and we believe in what we are doing"
+"A simple solution to a worlwide problem"
 
 A team of the NASA Space Apps Challenge 2017.
 
