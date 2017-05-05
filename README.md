@@ -44,4 +44,4 @@ Send 1 for more info on how to protect your loved ones and possessions.
 - Keras
 - Tensorflow
 - Python
-- Wisdom
+- Fruits and pizzas
