@@ -6,7 +6,7 @@ A team of the NASA Space Apps Challenge 2017.
 ---
 
 [//]: # (Image References)
-[ATI]: ./img/ATI%2016-9
+[ATI]: ./img/ATI%2016-9.png
 
 ## THE CHALLENGE | BRING YOUR OWN SOLUTION
 Follow your brain and your heart, and present a solution of your own choosing!
