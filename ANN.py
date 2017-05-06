@@ -15,6 +15,12 @@
 import numpy as np
 import math
 from keras.models import Sequential, Model
+from keras.layers import Input, GlobalAveragePooling2D, Cropping2D
+from keras.layers.core import Dense, Activation, Flatten, Dropout, Merge, Lambda
+from keras.layers.convolutional import Convolution2D
+from keras.layers.pooling import MaxPooling2D
+from keras.models import load_model
+
 
 # User functions, models and configuration parameters
 from params import *
@@ -100,6 +106,7 @@ else:
 if (predict_mode == True):
     print('Predicting...')
     predictions = model.predict_generator(generate_arrays_from_file(train_log_file, BATCH_SIZE, predict=True), val_samples=n_train_samples)
+    print('Output: ', predictions)
     print('Done')
     i = 0
     y = []
